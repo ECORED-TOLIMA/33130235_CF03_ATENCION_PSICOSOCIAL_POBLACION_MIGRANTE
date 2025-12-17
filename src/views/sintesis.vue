@@ -2,13 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
-    
-
+    p Este componente formativo aborda el uso de herramientas para la evaluación, intervención y seguimiento psicosocial en contextos de movilidad humana, orientadas a la atención de población migrante, personas retornadas y comunidades de acogida, fortaleciendo la identificación de necesidades emocionales, familiares y comunitarias, el desarrollo de estrategias de apoyo individual, familiar y colectivo, la aplicación de orientaciones metodológicas para una intervención ética y culturalmente pertinente, y la implementación de procesos operativos que garantizan el registro, la activación de rutas de atención, la remisión y el monitoreo, con el fin de promover el bienestar mental, la integración social y la protección de derechos en los territorios.
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se describen las herramientas de evaluación, intervención y seguimiento psicosocial en contextos de movilidad humana, destacando los procesos de valoración individual, familiar y comunitaria, las estrategias de apoyo emocional y fortalecimiento de redes, así como las orientaciones metodológicas y los procedimientos de registro, remisión y monitoreo, que garantizan una atención integral, oportuna y humanizada.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

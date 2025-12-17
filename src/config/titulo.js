@@ -1,1 +1,2 @@
-module.exports = 'ECOBASE_SENA'
+module.exports =
+  'Herramientas de acompañamiento psicosocial para la población migrante'
