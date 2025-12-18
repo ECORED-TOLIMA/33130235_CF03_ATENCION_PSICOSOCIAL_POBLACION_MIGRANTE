@@ -121,7 +121,7 @@
     p(data-aos="fade-down") Las herramientas grupales y comunitarias constituyen un componente esencial del acompañamiento psicosocial, ya que permiten abordar los efectos colectivos de la movilidad humana y fortalecer la convivencia entre la población migrante, retornada y las comunidades de acogida. Estas herramientas parten del reconocimiento de que la experiencia migratoria impacta no solo a las personas de manera individual, sino también a las dinámicas sociales, las relaciones comunitarias y el sentido de pertenencia territorial. Según la Organización Panamericana de la Salud (OPS), el trabajo grupal favorece la cohesión social, reduce los niveles de estigmatización y contribuye a la construcción de entornos protectores.
     p.mb-5(data-aos="fade-down") Entre las principales herramientas grupales y comunitarias se destacan:
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-10.col-12.mb-5.mb-md-0.order-lg-2.order-2.mb-lg-0
+      .col-lg-10.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0
         LineaTiempoD.color-acento-botones.especial
           .row(numero="1" titulo="Grupos psicosociales")
             .col-12.mb-4.mb-md-0

@@ -6,6 +6,7 @@
       .titulo-principal__numero(data-aos="fade-right")
         span 4
       h1 Metodología para la implementación operativa y el seguimiento
+    p.mb-5(data-aos="fade-down") La implementación operativa del acompañamiento psicosocial se sustenta en el uso de herramientas técnicas que permiten el registro sistemático de la información, la activación de rutas de atención, la realización de remisiones oportunas y la garantía del seguimiento a cada caso. Estas herramientas organizan el proceso de intervención, fortalecen la articulación intersectorial y aseguran una respuesta oportuna, pertinente y alineada con los lineamientos establecidos por el Estado.
     .row.justify-content-center.mb-4
       .col-lg-3.col-8.col-md-7.order-lg-2.order-1.mb-3
         figure
@@ -19,7 +20,7 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.1 Registro, activación de rutas y remisión
     p.mb-5(data-aos="fade-down") El registro inicial constituye el primer paso para documentar de manera sistemática la situación de la persona migrante, retornada o perteneciente a la comunidad de acogida, y representa la base para la planificación de las acciones de acompañamiento psicosocial. De acuerdo con los Lineamientos para la Atención Psicosocial en Movilidad Humana del Ministerio de Salud y Protección Social (2023), este proceso comprende la recolección de datos básicos, la historia migratoria, la identificación de necesidades y la detección de riesgos psicosociales. Este registro debe realizarse de forma ética, voluntaria y bajo estrictos principios de confidencialidad.
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.BG04.align-items-center.mb-5
       .col-lg-4.col-8.col-md-7.order-lg-1.order-1.mb-3
         figure
           img(src='@/assets/curso/temas/tema4/img02.png', alt='Imagen decorativa')

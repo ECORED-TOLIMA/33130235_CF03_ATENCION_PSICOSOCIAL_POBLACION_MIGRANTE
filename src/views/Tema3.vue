@@ -110,6 +110,7 @@
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Primeros Auxilios Psicológicos (PAP) en población migrante
+    p.mb-5(data-aos="fade-down") Los Primeros Auxilios Psicológicos (PAP) corresponden a una intervención inmediata, breve y no especializada que busca reducir la angustia emocional, promover la sensación de seguridad y favorecer la estabilidad psicológica en personas que han experimentado situaciones de crisis. En el contexto de la movilidad humana, los PAP adquieren especial relevancia debido a la alta exposición a eventos traumáticos, violencia, pérdidas, rupturas familiares y condiciones de vulnerabilidad. Su objetivo es brindar espacios de contención emocional, disminuir el impacto inicial del estrés y facilitar el acceso oportuno a redes de apoyo y servicios de salud mental.
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.col-md-7.order-lg-1.order-1
         figure
